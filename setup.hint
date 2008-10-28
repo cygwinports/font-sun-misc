@@ -1,5 +1,5 @@
 category: X11
-requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
-sdesc: "Xorg Sun Microsystems fonts"
-ldesc: "Xorg Sun Microsystems fonts"
+requires: mkfontdir mkfontscale fontconfig font-encodings font-alias
+sdesc: "X.Org Sun Microsystems fonts"
+ldesc: "X.Org Sun Microsystems fonts"
 
